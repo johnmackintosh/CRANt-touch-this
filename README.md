@@ -1,4 +1,8 @@
 # CRANt-touch-this
+
+![cant-touch-this-mc-hammer](https://user-images.githubusercontent.com/3278367/143146749-9b081fcd-b0c8-427d-a97e-b6dbedf263c3.gif)
+
+
 notes and resources of things to check before submitting a package to CRAN, to help you and others have as stress free a time as possible
 
 
