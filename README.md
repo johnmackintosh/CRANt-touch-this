@@ -1,8 +1,5 @@
 # CRANt-touch-this
 
-![cant-touch-this-mc-hammer](https://user-images.githubusercontent.com/3278367/143146749-9b081fcd-b0c8-427d-a97e-b6dbedf263c3.gif)
-
-
 notes and resources of things to check before submitting a package to CRAN, to help you and others have as stress free a time as possible
 
 
@@ -32,4 +29,7 @@ I failed submission because of a missing trailing '/' in a URL, don't let that h
 
 ## Checks before submission 
 https://github.com/DavisVaughan/extrachecks
+
+
+![cant-touch-this-mc-hammer](https://user-images.githubusercontent.com/3278367/143146749-9b081fcd-b0c8-427d-a97e-b6dbedf263c3.gif)
 
