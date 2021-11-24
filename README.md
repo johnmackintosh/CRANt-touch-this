@@ -3,7 +3,10 @@
 notes and resources of things to check before submitting a package to CRAN, to help you and others have as stress free a time as possible
 
 
+
 ## Useful reading:
+
+https://www.pipinghotdata.com/posts/2021-11-23-getting-started-with-unit-testing-in-r/
 
 https://r-pkgs.org/release.html
 
