@@ -35,5 +35,8 @@ I failed submission because of a missing trailing '/' in a URL, don't let that h
 https://github.com/DavisVaughan/extrachecks
 
 
+https://github.com/coolbutuseless/CRAN-checks  
+
+
 ![cant-touch-this-mc-hammer](https://user-images.githubusercontent.com/3278367/143146749-9b081fcd-b0c8-427d-a97e-b6dbedf263c3.gif)
 
