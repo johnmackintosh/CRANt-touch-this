@@ -18,6 +18,8 @@ https://www.marinedatascience.co/blog/2020/01/09/checklist-for-r-package-re-subm
 
 https://johnmuschelli.com/neuroc/getting_ready_for_submission/index.html
 
+https://github.com/r-devel/cran-cookbook
+
 
 ## Compendium
 
